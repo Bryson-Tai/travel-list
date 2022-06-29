@@ -12,7 +12,7 @@ const App = () => {
   return (
     <div>
       <Nav />
-      <div className="content">{journal}</div>
+      <div className="content"> {journal}</div>
     </div>
   );
 };
